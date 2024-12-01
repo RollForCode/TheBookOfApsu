@@ -1,4 +1,5 @@
 site_name: The Book Of Apsu
 theme:
   name: material
-
+extra_css:
+  - stylesheets/extra.css
