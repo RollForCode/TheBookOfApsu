@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: #F5F5DC;
+    background-color: #F5F5DC;
+}
+.md-header {
+    background-color: #666655;
+}
+
+.md-nav__title {
+    background: #F5F5DC !important;
+    box-shadow: none !important;
+}
